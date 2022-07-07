@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive Rating Component](https://testerium-interactive-rating-component.app/)
+- Live Site URL: [Interactive Rating Component](https://testerium-interactive-rating-component.netlify.app/)
 
 ## My process
 
